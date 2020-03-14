@@ -1,0 +1,1 @@
+A simple book - list app. You can add/remove a book. 
